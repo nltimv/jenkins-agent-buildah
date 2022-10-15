@@ -1,2 +1,2 @@
-# jenkins-agent-img
-jenkins/inbound-agent with img to build OCI images
+# jenkins-agent-buildah
+jenkins/inbound-agent with buildah to build container images
